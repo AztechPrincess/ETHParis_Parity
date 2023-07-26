@@ -17,6 +17,10 @@ The use-case is proven. Glassdoor has over 55M+ monthly users, Parity follows a 
 Parity is more than just a tool, we empower employees to challenge wage disparities and foster environments where compensation is truly reflective of merit.
 
 How it's Made
+iExec's Web3Mail tool could be used to send and receive messages between users of Parity without revealing their email addresses.
+This would allow users to share information about their salaries and workplace experiences anonymously.
+It would also allow users to collaborate on challenges such as wage disparities without fear of retaliation.
+
 Verification
 
 With UMA, employers make an optimistic statement and place a bond stating that they pay their employees fairly. There is a set time period for Parity users to attest to this or dispute it.
